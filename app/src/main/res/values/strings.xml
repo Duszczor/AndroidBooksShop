@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">Android1</string>
+
+    <string-array name="books_kinds">
+        <item>Kryminały</item>
+        <item>Fantasy</item>
+        <item>Przygodowe</item>
+        <item>Bajki</item>
+        <item>Naukowe</item>
+    </string-array>
+
+    <string-array name="books">
+        <item>Harry Potter</item>
+        <item>J.K Rownling</item>
+        <item>50.50</item>
+        <item>Książka o młodym czarodzieju, którego rodzicę zostali zamordowani przez Voldemorta.</item>
+        <item>Fantasy</item>
+        <item>https://vignette.wikia.nocookie.net/harrypotter/images/a/ac/Logo_HP.png</item>
+
+        <item>Władca Pierścieni</item>
+        <item>Tolkien</item>
+        <item>35.50</item>
+        <item>"Władca Pierścieni" to jedna z najbardziej niezwykłych książek w całej współczesnej literaturze.
+            Ogromna, z epickim rozmachem napisana powieść wprowadza nas w wykreowany przez wyobraźnię autora świat</item>
+        <item>Przygodowe</item>
+        <item>http://ecsmedia.pl/c/wladca-pierscieni-druzyna-pierscienia-dwie-wieze-powrot-krola-w-iext41745185.jpg</item>
+
+        <item>Silmarillion</item>
+        <item>Tolkien</item>
+        <item>52.99</item>
+        <item>Opowiedziane w książce legendy i mity sięgają zamierzchłych czasów, gdy pierwszy Władca Ciemności przebywał w Śródziemiu,
+            a elfy Wysokiego Rodu toczyły z nim wojnę, by odzyskać Silmarile, trzy świetliste klejnoty, w których przetrwało światło Dwóch Drzew Valinoru.</item>
+        <item>Fantasy</item>
+        <item>http://ecsmedia.pl/c/silmarillion-wydanie-ilustrowane-w-iext50863552.jpg</item>
+
+        <item>Hobbit</item>
+        <item>Tolkien</item>
+        <item>24.49</item>
+        <item>Zarówno "Hobbit", jak i "Władca Pierścieni" powstały pod wpływem dobrze znanych
+            autorowi skandynawskich mitów i staroangielskich legend, pełnych czarodziejów, smoków i przedmiotów o nadprzyrodzonej mocy.</item>
+        <item>Bajki</item>
+        <item>http://ecsmedia.pl/c/hobbit-w-iext34518972.jpg</item>
+
+        <item>Mroki</item>
+        <item>Borszewicz Jarosław</item>
+        <item>22.43</item>
+        <item>"Mroków" Jarosława Borszewicza nie można jednoznacznie sklasyfikować.
+            Możemy ten utwór nazwać prozą literacką, tomikiem poezji czy wreszcie powieścią o mrocznej fabule… </item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/mroki-w-iext41858141.jpg</item>
+
+        <item>Józef i Maryja</item>
+        <item>Christian Roger</item>
+        <item>25.49</item>
+        <item>"Józef i Maryja" to dramat biblijny oparty na losach Eliasza, pobożnego rabina, który po śmierci
+            przyjaciela opiekuje się jego rodziną. Podczas rzezi niewiniątek giną dzieci, nad którymi obiecał sprawować opiekę </item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/jozef-i-maryja-w-iext52710548.jpg</item>
+
+        <item>Smoczek Marian z Drakosławic</item>
+        <item>Mleczko Ewa</item>
+        <item>19.96</item>
+        <item>Poznajcie niezwykłe przygody Smoczka Mariana z Drakosławic, któremu towarzyszy jego rodzina
+            i przyjaciele – mama Smoczyca Izabela i tata Smok Roman, jaszczurka Lucynka, krokodyl Wiesiek</item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/smoczek-marian-z-drakoslawic-bajki-na-dobranoc-w-iext35731225.jpg</item>
+
+        <item>Borg McEnroe</item>
+        <item>Metz Janus</item>
+        <item>29.49</item>
+        <item>Wimbledon 1980. Cały świat wstrzymuje oddech – rozpoczyna się finałowy mecz. Björn Borg,
+            najlepszy tenisista na świecie, będzie bronił po raz piąty tytułu mistrza. Chłodny, opanowany i skuteczny </item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/borg-mcenroe-miedzy-odwaga-a-szalenstwem-w-iext52598216.jpg</item>
+
+        <item>Manchester By The Sea</item>
+        <item>Lonergan Kenneth</item>
+        <item>26.99</item>
+        <item>Lee Chandler (Casey Affleck) z zaskoczeniem dowiaduje się, że po śmierci starszego brata,
+            Joe’go (Kyle Chandler), został jedynym opiekunem jego 16-letniego syna, Patricka (Lucas Hedges).</item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/manchester-by-the-sea-w-iext49285314.jpg</item>
+
+        <item>Chata</item>
+        <item>Hazeldine Stuart</item>
+        <item>19.99</item>
+        <item>Sam Worthington („Avatar”, „Przełęcz ocalonych”) i Octavia Spencer („Służące”, „Ukryte działania”)
+            w poruszającej opowieści o niezwykłej podróży, która pozwala zrozpaczonemu ojcu na nowo odnaleźć sens życia </item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/chata-w-iext49973756.jpg</item>
+
+        <item>Pomiędzy nami góry</item>
+        <item>Abu-Assad Hany</item>
+        <item>50.99</item>
+        <item>Winslet tworzą znakomite kreacje w tym poruszającym, trzymającym w napięciu
+            dramacie zrealizowanym na podstawie znakomitej powieści Charlesa Martina. Dwójka nieznajomych</item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/pomiedzy-nami-gory-w-iext52576733.jpg</item>
+
+        <item>Kryptonim HhHH</item>
+        <item>Jimenez Cedric</item>
+        <item>29.49</item>
+        <item>Każda władza potrzebuje kogoś, kto pozostanie w cieniu i zadba o jej największe tajemnice. Rosamund Pike, Jason Clarke
+            i Mia Wasikowska w trzymającej w napięciu opowieści o Reinhardzie Heydrichu, człowieku, który skrywał najważniejsze tajemnice III Rzeszy.</item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/kryptonim-hhhh-w-iext52598310.jpg</item>
+
+        <item>Dwunastu odważnych</item>
+        <item>Fuglsig Nicolai</item>
+        <item>26.99</item>
+        <item>Chris Hemsworth ("Thor", "Wyścig"), Michael Shannon ("Kształt wody", "Zwierzęta nocy") i Michael Peña ("Bogowie ulicy") jako amerykańscy
+            komandosi, rzuceni do walki w sam środek afgańskiego piekła.</item>
+        <item>Naukowe</item>
+        <item>http://ecsmedia.pl/c/dwunastu-odwaznych-w-iext52734547.jpg</item>
+
+
+        <item>Kwiat paproci. Tom 4</item>
+        <item>Miszczuk Katarzyna Berenika</item>
+        <item>26.99</item>
+        <item>Najbardziej wyczekiwana książka tej wiosny – "Przesilenie", czyli ostatnia część bestsellerowego cyklu "Kwiat paproci" Katarzyny Bereniki Miszczuk.</item>
+        <item>Bajki</item>
+        <item>http://ecsmedia.pl/c/kwiat-paproci-tom-4-przesilenie-w-iext52766261.jpg</item>
+
+        <item>Kwiat paproci</item>
+        <item>Miszczuk Katarzyna Berenika</item>
+        <item>28.99</item>
+        <item>Porywająca, świetnie napisana powieść, w której XXI-wieczną Polską nadal rządzą Piastowie,
+            a wiara i obrzędy przodków są cały czas żywe. A wszystko przez to, że Mieszko I zdecydował się nie przyjąć chrztu…</item>
+        <item>Bajki</item>
+        <item>http://ecsmedia.pl/c/kwiat-paproci-tom-1-szeptucha-w-iext43464896.jpg</item>
+
+        <item>Obsesja</item>
+        <item>Miszczuk Katarzyna Berenika</item>
+        <item>31.99</item>
+        <item>Ponure korytarze szpitalnego oddziału psychiatrii i niepokojące listy od tajemniczego wielbiciela.
+            Wygląda na to, że doktor Joanna Skoczek znalazła się w niebezpieczeństwie.</item>
+        <item>Bajki</item>
+        <item>http://ecsmedia.pl/c/obsesja-w-iext52750376.jpg</item>
+
+        <item>Jak zawsze</item>
+        <item>Miłoszewski Zygmunt</item>
+        <item>19.99</item>
+        <item>Komedia ironiczno-romantyczna o parze, która dostała szansę przeżycia jeszcze raz swojej miłości.
+            I o narodzie, który dostał szansę przeżycia jeszcze raz swojej historii. I o tym, co z tego wynikło.</item>
+        <item>Bajki</item>
+        <item>http://ecsmedia.pl/c/jak-zawsze-w-iext51379293.jpg</item>
+
+
+
+        <item>Bądź pewna siebie</item>
+        <item>Godecka Joanna</item>
+        <item>25.99</item>
+        <item>Wszystko, co dzieje się w naszym życiu – sposób, w jaki działamy, planujemy, reagujemy,
+            tworzymy relacje z otoczeniem – wynika z tego, w jaki sposób myślimy o sobie!</item>
+        <item>Przygodowe</item>
+        <item>http://ecsmedia.pl/c/badz-pewna-siebie-w-iext52589556.jpg</item>
+
+        <item>Soma 0,5mg</item>
+        <item>Taconafide</item>
+        <item>44.99</item>
+        <item>Po dziś dzień zaledwie kilka muzycznych kolaboracji zapisało się na kartach historii polskiej muzyki dużymi literami.
+            Nie jest tajemnicą, że zderzenie dwóch różnych umysłów, perspektyw i wrażliwości artystycznej potrafi zaowocować produkcjami,
+            które z czasem zostają uznane zasłużonym mianem klasyków.</item>
+        <item>Przygodowe</item>
+        <item>http://ecsmedia.pl/c/soma-0-5mg-w-iext52742215.jpg</item>
+
+        <item>Dla fanek euforii</item>
+        <item>Quebonafide</item>
+        <item>28.99</item>
+        <item>Ponure korytarze szpitalnego oddziału psychiatrii i niepokojące listy od tajemniczego wielbiciela.
+            Wygląda na to, że doktor Joanna Skoczek znalazła się w niebezpieczeństwie.</item>
+        <item>Przygodowe</item>
+        <item>http://ecsmedia.pl/c/dla-fanek-euforii-w-iext49970505.jpg</item>
+
+        <item>To ziomal</item>
+        <item>Żabson</item>
+        <item>36.49</item>
+        <item>Komedia ironiczno-romantyczna o parze, która dostała szansę przeżycia jeszcze raz swojej miłości.
+            I o narodzie, który dostał szansę przeżycia jeszcze raz swojej historii. I o tym, co z tego wynikło.</item>
+        <item>Przygodowe</item>
+        <item>http://ecsmedia.pl/c/to-ziomal-w-iext52440451.jpg</item>
+
+
+
+        <item>Lipowo</item>
+        <item>Puzyńska Katarzyna</item>
+        <item>31.49</item>
+        <item>Berenika jest zbuntowana i lubi chadzać własnymi ścieżkami.
+            Po raz kolejny znika z domu. Jednak tym razem wszystko wydaje się być nie tak, jak zazwyczaj. </item>
+        <item>Fantasy</item>
+        <item>http://ecsmedia.pl/c/lipowo-tom-9-nora-w-iext52619762.jpg</item>
+
+        <item>Dieta warzywno-owocowa</item>
+        <item>Dąbrowska Beata</item>
+        <item>27.49</item>
+        <item>Kontynuacja bestsellerowego zbioru przepisów do diety dr Ewy Dąbrowskiej to zestaw konkretnych wskazówek
+            oraz metod, które pomogą Ci prawidłowo wyjść z postu i wprowadzić zmiany we wszystkich aspektach Twojego życia.
+            Spójrz na nie i na swoją dietę holistycznie.</item>
+        <item>Fantasy</item>
+        <item>http://ecsmedia.pl/c/dieta-warzywno-owocowa-dr-ewy-dabrowskiej-i-co-dalej-w-iext50067119.jpg</item>
+
+        <item>Łobuzy</item>
+        <item>Wojtusik Łukasz</item>
+        <item>27.49</item>
+        <item>Kontrowersyjni. Prowokujący do myślenia. Nie wahają się mówić o sprawach trudnych, choć nie zawsze jest to mile widziane.
+            Ale jedno jest pewne – kochają Kościół. Znaleźli w nim swoje miejsce i są w stanie wiele dla niego zrobić.</item>
+        <item>Fantasy</item>
+        <item>http://ecsmedia.pl/c/lobuzy-grzesznicy-mile-widziani-w-iext52710535.jpg</item>
+
+        <item>Życie pod prąd</item>
+        <item>Wilczyński Przemysław</item>
+        <item>35.49</item>
+        <item>Kochała go cała Polska. Chętnie opowiadał o swoim życiu, walce z rakiem i założonym przez siebie hospicjum. Ale czy znaliśmy go naprawdę?</item>
+        <item>Fantasy</item>
+        <item>http://ecsmedia.pl/c/jan-kaczkowski-zycie-pod-prad-biografia-w-iext52534985.jpg</item>
+
+
+
+        <item>Malarz obłędu</item>
+        <item>Wilczyński Przemysław</item>
+        <item>22.51</item>
+        <item>Znakomity nowy polski kryminał. Intrygująca i trzymająca w napięciu fabuła oraz charyzmatyczne postacie z krwi i kości.</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/malarz-obledu-w-iext52388283.jpg</item>
+
+        <item>Zamęt</item>
+        <item>Severski Vincent</item>
+        <item>29.99</item>
+        <item>W Pakistanie porwany zostaje przez talibów polski biznesmen. Grozi mu śmierć.
+            Do akcji ratunkowej rusza super tajna jednostka Agencji Wywiadu znana jako "Sekcja".</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/zamet-w-iext52682162.jpg</item>
+
+        <item>I że cię nie opuszczę</item>
+        <item>Richmond Michelle</item>
+        <item>29.49</item>
+        <item>Alice i Jake to młode kochające się małżeństwo. Alice odnosi sukcesy jako prawniczka,
+            Jake jest terapeutą i współwłaścicielem poradni psychologicznej. Przed nimi wspólne życie pełne planów.</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/i-ze-cie-nie-opuszcze-w-iext52657767.jpg</item>
+
+        <item>Zabójczy pocisk</item>
+        <item>Mróz Remigiusz</item>
+        <item>27.49</item>
+        <item>"Zabójczy pocisk" funduje czytelnikowi wędrówkę po najmroczniejszych zakamarkach ludzkiej duszy.
+            Kto zabił, dlaczego, kiedy i czy z premedytacją? Jak wykluwa się zbrodnia?</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/zabojczy-pocisk-w-iext52734790.jpg</item>
+
+
+
+        <item>Kwiat paproci. Tom 4</item>
+        <item>Miszczuk Katarzyna Berenika</item>
+        <item>26.99</item>
+        <item>Najbardziej wyczekiwana książka tej wiosny – "Przesilenie", czyli ostatnia część bestsellerowego cyklu "Kwiat paproci" Katarzyny Bereniki Miszczuk.</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/kwiat-paproci-tom-4-przesilenie-w-iext52766261.jpg</item>
+
+        <item>Kwiat paproci</item>
+        <item>Miszczuk Katarzyna Berenika</item>
+        <item>28.99</item>
+        <item>Porywająca, świetnie napisana powieść, w której XXI-wieczną Polską nadal rządzą Piastowie,
+            a wiara i obrzędy przodków są cały czas żywe. A wszystko przez to, że Mieszko I zdecydował się nie przyjąć chrztu…</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/kwiat-paproci-tom-1-szeptucha-w-iext43464896.jpg</item>
+
+        <item>Obsesja</item>
+        <item>Miszczuk Katarzyna Berenika</item>
+        <item>31.99</item>
+        <item>Ponure korytarze szpitalnego oddziału psychiatrii i niepokojące listy od tajemniczego wielbiciela.
+            Wygląda na to, że doktor Joanna Skoczek znalazła się w niebezpieczeństwie.</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/obsesja-w-iext52750376.jpg</item>
+
+        <item>Jak zawsze</item>
+        <item>Miłoszewski Zygmunt</item>
+        <item>19.99</item>
+        <item>Komedia ironiczno-romantyczna o parze, która dostała szansę przeżycia jeszcze raz swojej miłości.
+            I o narodzie, który dostał szansę przeżycia jeszcze raz swojej historii. I o tym, co z tego wynikło.</item>
+        <item>Kryminały</item>
+        <item>http://ecsmedia.pl/c/jak-zawsze-w-iext51379293.jpg</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

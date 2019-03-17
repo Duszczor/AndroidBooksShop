@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment_Book_Description">
+
+
+
+    <ImageView
+        android:id="@+id/imageViewDescription"
+        android:layout_width="152dp"
+        android:layout_height="149dp"
+        android:layout_above="@+id/textView_authorDesc"
+        android:layout_marginBottom="-172dp"
+        android:layout_toStartOf="@+id/textView_authorDesc"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textView_nameDesc"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="86dp"
+        android:layout_marginTop="53dp"
+        android:text="Nazwa" />
+
+    <TextView
+        android:id="@+id/textView_descriptionDesc"
+        android:layout_width="273dp"
+        android:layout_height="101dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="152dp"
+        android:text="Opis" />
+
+    <TextView
+        android:id="@+id/textView_authorDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="201dp"
+        android:text="Autor" />
+
+    <Button
+        android:id="@+id/button_addKoszyk"
+        android:layout_width="171dp"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="33dp"
+        android:text="Dodaj do koszyka" />
+
+    <TextView
+        android:id="@+id/textView_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/button_addKoszyk"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="130dp"
+        android:text="Cena" />
+</RelativeLayout>
